@@ -3,13 +3,21 @@ The WGF website shows the foundation's activities and allows volunteers to join 
 
 ## Table Of Contents
 *[Project Description](#project-description)
+
 *[Project Status](#project-status)
+
 *[Project Screenshots](#project-screenshots)
+
 *[Installation](#installation)
+
 *[Project-context](#project-context)
+
 *[Technologies](#technologies)
+
 *[Roadmap](#roadmap)
+
 *[Credits](#credits)
+
 *[License](#license)
 
 ## Project Description
